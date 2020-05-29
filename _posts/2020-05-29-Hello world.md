@@ -1,3 +1,4 @@
+---
 title: "Edge Case: Nested and Mixed Lists"
 categories:
   - Edge Case
@@ -7,6 +8,7 @@ tags:
   - edge case
   - lists
   - markup
+---
   
   
   Test!
